@@ -470,6 +470,9 @@ footer .flex{
   .slider .sliderwrapper .Items button{
     font-size: 5vw;
   }
+  .Pricetag{
+    font-weight: 600;
+  }
 }
 
 @media (max-width:650px) {
