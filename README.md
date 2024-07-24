@@ -10,7 +10,7 @@
 
 <p>Credits for the design goes to <a href='https://github.com/safak'>safak</a></p>
 
-👉 Live Demo: <a href='https://aayushd10.github.io/ShoeDog-Ecommerce/'>Demo</a>
+👉 Live Demo: <a href='https://aayucsh.github.io/ShoeDog-Ecommerce/'>Demo</a>
 
 <h3>Build with:</h3>
 
